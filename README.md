@@ -9,6 +9,7 @@ below, I am pasting the sample output by executing the pawn_mover.rb,
 (base) BLRMAC62:practice sai$ ruby pawn_mover.rb
 
 please enter a command(valid commands --> PLACE, MOVE, LEFT, RIGHT, REPORT, EXIT(to exit))
+
 PLACE
 please enter x position
 2
